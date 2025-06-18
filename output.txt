@@ -1,0 +1,164 @@
+0
+	Borsuk, Amaranth. /The Book/.
+	Ceruzzi, Paul E. /Computing: A Concise History/.
+	Dyson, George. /Turing's Cathedral: The Origins of the Digital Universe/.
+	Katie Hafner and Matthew Lyon. /Where Wizards Stay Up Late: The Origins of the Internet/.
+	Levy, Steven. /Hackers: Heroes of the Computer Revolution/.
+	Linus Torvalds and David Diamond. /Just for Fun: The Story of an Accidental Revolutionary/.
+	Stephenson, Neal. /In the Beginning...Was the Command Line/.
+	Menn, Joseph. /Cult of the Dead Cow: How the Original Hacking Supergruop Might Just Save the World/.
+	Wiener, Norbert. /Cybernetics: Or, Control and Communication in the Animal and the Machine/.
+	Suber, Peter. /Open Access/.
+	Russell, Bertrand. /A History of Western Philosophy/.
+	Heidegger, Martin. /Being and Time/.
+	Kant, Immanuel. /Critique of Pure Reason/.
+	McIntyre, Lee. /Post-Truth/.
+	Popper, Karl. /Conjectures and Refutations: The Growth of Scientific Knowledge/.
+	Harris, Sam. /Free Will/.
+	Sartre, Jean-Paul. /Existentialism Is a Humanism/.
+	Frankl, Viktor. /Man's Search for Meaning/.
+	Styazhkin, N. I. /History of Mathematical Logic from Leibniz to Peano/.
+	Spinoza, Benedict de. /Ethics/.
+1
+	Aurelius, Marcus. /Meditations/.
+	Epictetus. /Discourses and Selected Writings/.
+	Seneca. /Letters from a Stoic: Epistulae Morales Ad Lucilium/.
+	Nietzsche, Friedrich. /Beyond Good and Evil/.
+	Nietzsche, Friedrich. /The Will to Power/.
+	Descartes, René. /Meditations/.
+	Tolstoy, Leo. /A Confession and Other Religious Writings/.
+	Catholic Book Publishing. /The New American Bible/.
+	Aquinas, Thomas. /Selected Writings/.
+	Luther, Martin. /The Ninety-Five Theses and Other Writings/.
+	Warner, Michael. /American Sermons/.
+	Suzuki, Shunryu. /Zen Mind, Beginner's Mind/.
+	Vyasa. /The Bhagavad Gita/.
+	Tzu, Lao. /Tao Te Ching/.
+	Liu, Wendy. /Abolish Silicon Valley: How to Liberate Technology from Capitalism/.
+	Camus, Albert. /The Rebel/.
+	Bookchin, Murray. /The Modern Crisis/.
+	Collins, Patricia Hill. /Black Feminist Thought: Knowledge, Consciousness, and the Politics of Empowerment/.
+	Davis, Angela Y. /Women, Race, & Class/.
+	Boyarin, Daniel. /The No-state Solution: A Jewish Manifesto/.
+2
+	Graeber, David. /Bullshit Jobs: A Theory/.
+	Chomsky, Noam. /Understanding Power: The Indispensable Chomsky/.
+	Locke, John. /Two Treatises of Government/.
+	Leo Strauss and Joseph Cropsey. /History of Political Philosophy/.
+	Rousseau, Jean-Jacques. /Discourse on the Origin of Inequality/.
+	Paine, Thomas. /Common Sense/.
+	Michael Hardt and Antonio Negri. /Multitude: War and Democracy in the Age of Empire/.
+	Davis, Angela Y. /Freedom is a Constant Struggle: Ferguson, Palestine, and the Foundations of a Movement/.
+	Finn Brunton and Helen Nissenbaum. /Obfuscation: A User's Guide for Privacy and Protest/.
+	Michael Hardt and Antonio Negri. /Empire/.
+	Niederhoffer, Victor. /The Education of a Speculator/.
+	Lenin, V. I. /State and Revolution/.
+	More, Thomas. /Utopia/.
+	Berlin, Isaiah. /Karl Marx: His Life and Environment/.
+	Karl Marx and Friedrich Engels. /Capital: Voume One/.
+	Karl Marx and Friedrich Engels. /The Communist Manifesto/.
+	Charrisse Burden-Stelly and Jodi Dean. /Organize, Fight, Win: Black Communist Women's Political Writing/.
+	Kropotkin, Peter. /Anarchist Communism/.
+	Kropotkin, Peter. /The Conquest of Bread/.
+	Kropotkin, Peter. /Words of a Rebel/.
+3
+	Alderman, John. /Sonic Boom: Napster, Mp3, And The New Pioneers Of Music/.
+	Illich, Ivan. /Tools for Conviviality/.
+	Girgio Kallis /Degrowth/.
+	B, Felipe Larrain. /Macroeconomics/.
+	Beeman, Richard. /Supreme Court Decisions/.
+	Hamilton, Alexander - /The Federalist Papers/.
+	Douglas J. Whaley and David Horton. /Cases, Problems, and Materials on Contracts/.
+	Manning, Chelsea. /README.txt/.
+	Bookchin, Murray. /Remaking Society: Pathways to a Green Future/.
+	Bob Woodward and Carl Bernstein. /All the President's Men/.
+	Greenberg, Andy. /This Machine Kills Secrets: Julian Assange, the Cypherpunks, and Their Fight to Empower Whistleblowers/.
+	Tampio, Nicholas. /Learning versus the Common Core/.
+	Peter Terrell and Horst Kopleck, ed. /Webster's New World German Dictionary/.
+	Chomsky, Noam. /Language and Problems of Knowledge: The Managua Lectures/.
+	Chomsky, Noam. /The Minimalist Program/.
+	Budiansky, Stephen. /Journey to the Edge of Reason: The Life of Kurt Godel/.
+	Tolstov, Georgi P. /Fourier Series/.
+	Nagel, Ernst. /Godel's Proof/.
+	Petzold, Charles. /The Annotated Turing: A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine/.
+	Bruer, Joseph. /Introduction to the Theory of Sets/.
+4
+	Shilov, Georgi E. /Linear Algebra/.
+	A. N. Kolmogorov and Sergeĭ Vasil'evich Fomin. /Introductory Real Analysis/.
+	Hawking, Stephen. /A Brief History of Time/.
+	Kai Bird and Martin J. Sherwin. /American Prometheus/.
+	Feynman, Richard. /QED: The Strange Theory of Light and Matter/.
+	Huang, Andrew. /The Hardware Hacker: Adventures in Making and Breaking Hardware/.
+	Isaacson, Walter. /Steve Jobs/.
+	Elonka Dunin and Klaus Schmeh. /Codebreaking: A Practical Guide/.
+	Graat, Reinier de. /architect, verb/.
+	Charnas, Dan. /Dilla Time/.
+	Helene S. Shapo, Marilyn R. Walter, Elizabeth Fajans. /Writing and Analysis in the Law/.
+	Vuong, Ocean. /Night Sky with Exit Wounds/.
+	Vuong, Ocean. /Time is a Mother/.
+	Miller, Arthur. /Death of a Salesman/.
+	Hansberry, Lorraine. /A Raisin in the Sun/.
+	Hawthorne, Nathaniel. /The Scarlet Letter/.
+	Fitzgerald, F. Scott. /The Great Gatsby/.
+	Baldwin, James. /Go Tell It on the Mountain/.
+	Bradbury, Ray. /Fahrenheit 451/.
+	Cisneros, Sandra. /The House on Mango Street/.
+5
+	Dick, Philip K. /The Man in the High Castle/.
+	Ellis, Bret Easton. /American Psycho/.
+	Gibson, William. /Neuromancer/.
+	Herbert, Frank. /Dune/.
+	Herbert, Frank. /Dune: Messiah/.
+	King, Stephen. /It/.
+	Le Guin, Ursula K. /The Dispossessed/.
+	Lee, Harper. /To Kill a Mockingbird/.
+	Salinger, J.D. /The Catcher in the Rye/.
+	Steinbeck, John. /Of Mice and Men/.
+	Steinbeck, John. /The Grapes of Wrath/.
+	Stephenson, Neal. /Cryptonomicon/.
+	Stephenson, Neal. /Snow Crash/.
+	Vonnegut, Kurt. /Player Piano/.
+	Williams, John. /Butcher's Crossing/.
+	Cline, Ernest. /Ready Player One/.
+	Cline, Ernest. /Ready Player Two/.
+	Ellis, Lindsay. /Axiom's End/.
+	Thomas, Angie. /The Hate U Give/.
+	Zevin, Gabrielle. /Tomorrow, and Tomorrow, and Tomorrow/.
+6
+	Baldwin, James. /Collected Essays/.
+	Morrison, Toni. /The Source of Self-Regard: Selected Essays, Speeches, and Meditations/.
+	Thoreau, Henry David. /Walden/.
+	Thoreau, Henry David. /Walden and Civil Disobedience/.
+	Chaucer, Geoffrey. /Troilus and Cressida/.
+	Donne, John. /John Donne's Poetry/.
+	Milton, John. /Paradise Lost/.
+	Byron, George G. /Byron: Selected Poetry/.
+	Wordsworth, William. /The Romantic Poets/.
+	Heaney, Seamus. /100 Poems/.
+	Shakespeare, William. /Macbeth/.
+	Shakespeare, William. /Julius Caesar/.
+	Shakespeare, William. /King Lear/.
+	Dickens, Charles. /A Tale of Two Cities/.
+	Orwell, George. /1984/.
+	Tolkien, J.R.R. /The Hobbit/.
+	Tolkien, J.R.R. /The Lord of the Rings: The Fellowship of the Ring/.
+	Tolkien, J.R.R. /The Lord of the Rings: The Two Towers/.
+	Tolkien, J.R.R. /The Lord of the Rings: The Return of the King/.
+	Tolkien, J.R.R. /The Letters of J.R.R. Tolkien/.
+7
+	Adams, Douglas. /The Ultimate Hitchhiker's Guide to the Galaxy/.
+	Camus, Albert. /The Stranger/.
+	Erasmus, Desiderius. /The Praise of Folly/.
+	Homer. /The Odyssey/.
+	Pushkin, Alexander. /Selected Poems/.
+	Dostoevsky, Fyodor. /Crime and Punishment/.
+	Dostoyevsky, Fyodor. /Notes from Underground and the Double/.
+	Kawaguchi, Toshikazu. /Before the Coffee Gets Cold/.
+	Arendt, Hannah. /Eichmann in Jerusalem: A Report on the Banality of Evil/.
+	Du Bois, W. E. B. /The Souls of Black Folk/.
+	Chernow, Ron. /Alexander Hamilton/.
+	Jefferson, Thomas. /Selected Writings/.
+	Lincoln, Abraham. /Selected Speeches and Writings/.
+	Goodwin, Doris Kearns. /Team of Rivals: The Political Genius of Abraham Lincoln/.
+	Chomsky, Noam. /The Responsibility of Intellectuals/.
+	Jefferson, Thomas. /Notes on the State of Virginia/.
